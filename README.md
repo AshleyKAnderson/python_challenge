@@ -1,7 +1,8 @@
 # python_challenge
 _This is the third challenge project for the University of Minnesota Data Analytics and Visualization Bootcamp._
 
-PyBank Instructions
+# Instructions
+
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
 ### Your task is to create a Python script that analyzes the records to calculate each of the following values:
