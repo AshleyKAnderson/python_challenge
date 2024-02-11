@@ -3,7 +3,7 @@
 PyBank Instructions
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
-Your task is to create a Python script that analyzes the records to calculate each of the following values:
+### Your task is to create a Python script that analyzes the records to calculate each of the following values:
 
 *The total number of months included in the dataset
 
@@ -15,7 +15,7 @@ Your task is to create a Python script that analyzes the records to calculate ea
 
 *The greatest decrease in profits (date and amount) over the entire period
 
-Your analysis should align with the following results:
+#### Your analysis should align with the following results:
 
 <img width="912" alt="Screenshot 2024-01-17 at 6 15 09 PM" src="https://github.com/AshleyKAnderson/python_challenge/assets/151413928/4e50d7e9-5e98-4c8f-8d89-75859a6a8970">
 
@@ -24,7 +24,7 @@ In addition, your final script should both print the analysis to the terminal an
 PyPoll Instructions
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
 
-You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:
+### You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:
 
 *The total number of votes cast
 
@@ -36,7 +36,7 @@ You will be given a set of poll data called election_data.csv. The dataset is co
 
 *The winner of the election based on popular vote
 
-Your analysis should align with the following results:
+#### Your analysis should align with the following results:
 
 <img width="912" alt="Screenshot 2024-01-17 at 6 15 09 PM" src="https://github.com/AshleyKAnderson/python_challenge/assets/151413928/74312f3f-4d24-4839-b839-74207a77c47b">
 
